@@ -73,3 +73,4 @@ idea-sharing-platform/
 - Commenting and voting on ideas
 - Rich text editor for idea descriptions
 - Social sharing functionality
+
